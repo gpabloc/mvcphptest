@@ -6,7 +6,7 @@ Here php mvc tutorial test code
 
 ## Start 🚀
 
-Run the database generation script and change them to your own in the connection file, enjoy
+Run the database generation script and change them to your own in the connection file
 
 
 
